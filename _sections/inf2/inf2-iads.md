@@ -12,3 +12,4 @@ course-acronym: inf2-iads
 - [Course Notes INF2B - Algorithms (2018)](https://drive.google.com/drive/u/1/folders/1phoPeflx6KgZeOwH88la66J7Xa49UPLE)
 - [Community Solutions to CLRS (4th ed.)](https://walkccc.me/CLRS/)
 - For all things iads: [Abdul Bari](https://www.youtube.com/channel/UCZCFT11CWBi3MHNlGf019nw/featured)
+- [(2022-23) Chris' Notes](https://drive.google.com/file/d/1weYXlt5iQs717lQfNiATSFZjNtlh78D5/view?usp=sharing)
