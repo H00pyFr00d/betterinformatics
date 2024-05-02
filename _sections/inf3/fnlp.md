@@ -13,3 +13,4 @@ Addtional resources on discourse coherence:
 - https://www3.cs.stonybrook.edu/~ychoi/cse507/slides/06-discourse.pdf
 - [All slides (2014) in one pdf](/drive?next=0B2AAOQQZ_8BxV1R0dVlJc3dFMkE)
 - 14/15 slides rough summary: [here](/drive?next=0B2AAOQQZ_8BxLXJzZ2JwZE9VaUE) (Directly exported from org-mode, so algorithms and formulas are largely missing)
+- [(2023-24) Chris' Notes](https://drive.google.com/file/d/1sVaS3f6SD9x0JVQ6vBgkMsIkXwmuy4WY/view?usp=drive_link)
